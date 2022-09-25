@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/template2-react-stylish/static/css/main.918b4c14.css",
+    "main.js": "/template2-react-stylish/static/js/main.38f93db9.js",
+    "static/media/card-2.jpg": "/template2-react-stylish/static/media/card-2.4f609ef29fe03f14e0a3.jpg",
+    "static/media/card-3.jpg": "/template2-react-stylish/static/media/card-3.4dbbe676927851c08a0f.jpg",
+    "static/media/cnqr686.png": "/template2-react-stylish/static/media/cnqr686.9a2f6d1d29244f9e529d.png",
+    "static/media/card-1.jpg": "/template2-react-stylish/static/media/card-1.3e44d8b53a0cc9521754.jpg",
+    "static/media/card-6.jpg": "/template2-react-stylish/static/media/card-6.e9617432e04fdc8e20d4.jpg",
+    "static/media/cv.png": "/template2-react-stylish/static/media/cv.58dca3d834da6fdf1eb5.png",
+    "static/media/contact-img.png": "/template2-react-stylish/static/media/contact-img.7ffba79a5981016c975a.png",
+    "static/media/card-5.png": "/template2-react-stylish/static/media/card-5.6c8adc760b8a33d5271b.png",
+    "index.html": "/template2-react-stylish/index.html",
+    "main.918b4c14.css.map": "/template2-react-stylish/static/css/main.918b4c14.css.map",
+    "main.38f93db9.js.map": "/template2-react-stylish/static/js/main.38f93db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.918b4c14.css",
+    "static/js/main.38f93db9.js"
+  ]
+}
